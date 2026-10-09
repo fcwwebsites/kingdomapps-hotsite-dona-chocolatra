@@ -124,3 +124,4 @@ body{font-weight:400}
 .e1-footer .f-links{justify-content:center;margin:20px 0}
 .e1-footer p{opacity:.85;font-size:.9rem;margin:0 0 .4em}
 .e1-footer .f-name{font-family:var(--font-display);font-size:1.4rem;opacity:1}
+.e1-paper .mi:not(:has(.mi-price))::after{display:none}
